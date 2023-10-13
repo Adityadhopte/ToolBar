@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToolbarExample</string>
+    <string name="back_button_description">Navigate Back</string>
+
+</resources>
